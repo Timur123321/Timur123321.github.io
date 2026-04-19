@@ -1314,7 +1314,7 @@ class PlayerClass {
         this._lastXOffset = 0,
         this.stopRotation(),
         this.rotateActionTime = 0,
-        this._rotation = 0,
+        this._rotation = 90,
         this._lastCameraX = 0,
         this._lastCameraY = 0,
         this.setCubeVisible(true),
